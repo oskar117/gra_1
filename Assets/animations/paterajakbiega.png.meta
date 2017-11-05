@@ -1,0 +1,1191 @@
+fileFormatVersion: 2
+guid: 6a1bad4e2e32d464bb0b648ee5d1ab6c
+timeCreated: 1474480046
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: paterajakbiega_0
+    21300002: paterajakbiega_1
+    21300004: paterajakbiega_2
+    21300006: paterajakbiega_3
+    21300008: paterajakbiega_4
+    21300010: paterajakbiega_5
+    21300012: paterajakbiega_6
+    21300014: paterajakbiega_7
+    21300016: paterajakbiega_8
+    21300018: paterajakbiega_9
+    21300020: paterajakbiega_10
+    21300022: paterajakbiega_11
+    21300024: paterajakbiega_12
+    21300026: paterajakbiega_13
+    21300028: paterajakbiega_14
+    21300030: paterajakbiega_15
+    21300032: paterajakbiega_16
+    21300034: paterajakbiega_17
+    21300036: paterajakbiega_18
+    21300038: paterajakbiega_19
+    21300040: paterajakbiega_20
+    21300042: paterajakbiega_21
+    21300044: paterajakbiega_22
+    21300046: paterajakbiega_23
+    21300048: paterajakbiega_24
+    21300050: paterajakbiega_25
+    21300052: paterajakbiega_26
+    21300054: paterajakbiega_27
+    21300056: paterajakbiega_28
+    21300058: paterajakbiega_29
+    21300060: paterajakbiega_30
+    21300062: paterajakbiega_31
+    21300064: paterajakbiega_32
+    21300066: paterajakbiega_33
+    21300068: paterajakbiega_34
+    21300070: paterajakbiega_35
+    21300072: paterajakbiega_36
+    21300074: paterajakbiega_37
+    21300076: paterajakbiega_38
+    21300078: paterajakbiega_39
+    21300080: paterajakbiega_40
+    21300082: paterajakbiega_41
+    21300084: paterajakbiega_42
+    21300086: paterajakbiega_43
+    21300088: paterajakbiega_44
+    21300090: paterajakbiega_45
+    21300092: paterajakbiega_46
+    21300094: paterajakbiega_47
+    21300096: paterajakbiega_48
+    21300098: paterajakbiega_49
+    21300100: paterajakbiega_50
+    21300102: paterajakbiega_51
+    21300104: paterajakbiega_52
+    21300106: paterajakbiega_53
+    21300108: paterajakbiega_54
+    21300110: paterajakbiega_55
+    21300112: paterajakbiega_56
+    21300114: paterajakbiega_57
+    21300116: paterajakbiega_58
+    21300118: paterajakbiega_59
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: paterajakbiega_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3776
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -7, y: 2}
+        - {x: 5, y: 2}
+        - {x: 7, y: 4}
+        - {x: 7, y: 11}
+        - {x: 5, y: 13}
+    - name: paterajakbiega_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3712
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 13}
+        - {x: -7, y: 2}
+        - {x: 5, y: 2}
+        - {x: 7, y: 4}
+        - {x: 7, y: 11}
+        - {x: 5, y: 13}
+    - name: paterajakbiega_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3648
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 14}
+        - {x: -6, y: 14}
+        - {x: -7, y: 12}
+        - {x: -7, y: 4}
+        - {x: -5, y: 2}
+        - {x: 5, y: 2}
+        - {x: 7, y: 4}
+        - {x: 7, y: 13}
+    - name: paterajakbiega_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -7, y: 12}
+        - {x: -7, y: 3}
+        - {x: -4, y: 1}
+        - {x: 7, y: 1}
+        - {x: 7, y: 13}
+        - {x: 5, y: 13}
+    - name: paterajakbiega_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3520
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -7, y: 12}
+        - {x: -7, y: 3}
+        - {x: -3, y: 0}
+        - {x: 7, y: 0}
+        - {x: 7, y: 13}
+        - {x: 5, y: 13}
+    - name: paterajakbiega_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3456
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 15}
+        - {x: -7, y: 13}
+        - {x: -7, y: 2}
+        - {x: -4, y: 0}
+        - {x: 5, y: 0}
+        - {x: 7, y: 1}
+        - {x: 7, y: 12}
+        - {x: 3, y: 15}
+    - name: paterajakbiega_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3392
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 15}
+        - {x: -5, y: 15}
+        - {x: -7, y: 14}
+        - {x: -7, y: 1}
+        - {x: -2, y: -2}
+        - {x: 5, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 12}
+    - name: paterajakbiega_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -7, y: 15}
+        - {x: -7, y: 2}
+        - {x: -3, y: -2}
+        - {x: 5, y: -2}
+        - {x: 7, y: -1}
+        - {x: 7, y: 12}
+        - {x: 3, y: 16}
+    - name: paterajakbiega_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3264
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -7, y: 15}
+        - {x: -7, y: 1}
+        - {x: -2, y: -2}
+        - {x: 7, y: -2}
+        - {x: 7, y: 14}
+        - {x: 4, y: 16}
+    - name: paterajakbiega_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 16}
+        - {x: -7, y: 15}
+        - {x: -7, y: 1}
+        - {x: -2, y: -3}
+        - {x: 7, y: -3}
+        - {x: 7, y: 14}
+        - {x: 4, y: 16}
+    - name: paterajakbiega_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3136
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 1}
+        - {x: -3, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: 10}
+        - {x: 3, y: 17}
+    - name: paterajakbiega_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 1}
+        - {x: -3, y: -4}
+        - {x: 7, y: -4}
+        - {x: 7, y: 10}
+        - {x: 3, y: 17}
+    - name: paterajakbiega_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3008
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 1}
+        - {x: -3, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: 12}
+        - {x: 4, y: 17}
+    - name: paterajakbiega_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2944
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 1}
+        - {x: -3, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 12}
+        - {x: 4, y: 17}
+    - name: paterajakbiega_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 1}
+        - {x: -3, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 12}
+        - {x: 4, y: 17}
+    - name: paterajakbiega_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 0}
+        - {x: -3, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 11}
+        - {x: 4, y: 17}
+    - name: paterajakbiega_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 0}
+        - {x: -3, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 11}
+        - {x: 4, y: 17}
+    - name: paterajakbiega_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2688
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 0}
+        - {x: -3, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 11}
+        - {x: 4, y: 17}
+    - name: paterajakbiega_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2624
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 17}
+        - {x: -7, y: 0}
+        - {x: -3, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 11}
+        - {x: 3, y: 17}
+    - name: paterajakbiega_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -7, y: 0}
+        - {x: -3, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: 9}
+        - {x: 3, y: 16}
+    - name: paterajakbiega_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2496
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 16}
+        - {x: -7, y: 0}
+        - {x: -3, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: 9}
+        - {x: 3, y: 16}
+    - name: paterajakbiega_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2432
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 15}
+        - {x: -5, y: 15}
+        - {x: -7, y: 14}
+        - {x: -7, y: 2}
+        - {x: -3, y: -5}
+        - {x: 7, y: -5}
+        - {x: 7, y: 11}
+    - name: paterajakbiega_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2368
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -7, y: 13}
+        - {x: -7, y: 0}
+        - {x: -3, y: -4}
+        - {x: 5, y: -4}
+        - {x: 7, y: -3}
+        - {x: 7, y: 10}
+        - {x: 3, y: 14}
+    - name: paterajakbiega_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 14}
+        - {x: -7, y: 13}
+        - {x: -7, y: -1}
+        - {x: -4, y: -4}
+        - {x: 5, y: -4}
+        - {x: 7, y: -3}
+        - {x: 7, y: 10}
+        - {x: 3, y: 14}
+    - name: paterajakbiega_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2240
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -7, y: 11}
+        - {x: -7, y: 0}
+        - {x: -4, y: -3}
+        - {x: 5, y: -3}
+        - {x: 7, y: -2}
+        - {x: 7, y: 10}
+        - {x: 3, y: 13}
+    - name: paterajakbiega_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2176
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -7, y: 10}
+        - {x: -7, y: -1}
+        - {x: -4, y: -3}
+        - {x: 5, y: -3}
+        - {x: 7, y: -2}
+        - {x: 7, y: 9}
+        - {x: 3, y: 12}
+    - name: paterajakbiega_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 12}
+        - {x: -7, y: 10}
+        - {x: -7, y: -1}
+        - {x: -4, y: -3}
+        - {x: 5, y: -3}
+        - {x: 7, y: -2}
+        - {x: 7, y: 9}
+        - {x: 3, y: 12}
+    - name: paterajakbiega_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 11}
+        - {x: -6, y: 11}
+        - {x: -7, y: 9}
+        - {x: -7, y: 1}
+        - {x: -6, y: -1}
+        - {x: 0, y: -2}
+        - {x: 6, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 10}
+    - name: paterajakbiega_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1984
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -1}
+        - {x: -6, y: -1}
+        - {x: 0, y: -2}
+        - {x: 6, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 8}
+        - {x: 5, y: 10}
+    - name: paterajakbiega_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -1}
+        - {x: 6, y: -1}
+        - {x: 7, y: 1}
+        - {x: 7, y: 8}
+        - {x: 5, y: 10}
+    - name: paterajakbiega_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -7, y: -2}
+        - {x: 5, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 7}
+        - {x: 5, y: 9}
+    - name: paterajakbiega_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 9}
+        - {x: -7, y: -2}
+        - {x: 5, y: -2}
+        - {x: 7, y: 0}
+        - {x: 7, y: 7}
+        - {x: 5, y: 9}
+    - name: paterajakbiega_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: -2}
+        - {x: 7, y: -2}
+        - {x: 7, y: 10}
+        - {x: -7, y: 10}
+    - name: paterajakbiega_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1664
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 10}
+        - {x: -7, y: -3}
+        - {x: 6, y: -3}
+        - {x: 7, y: -2}
+        - {x: 7, y: 10}
+    - name: paterajakbiega_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 10}
+        - {x: -6, y: 10}
+        - {x: -7, y: 9}
+        - {x: -7, y: -4}
+        - {x: 2, y: -4}
+        - {x: 7, y: -1}
+        - {x: 7, y: 8}
+    - name: paterajakbiega_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 8}
+        - {x: -7, y: -3}
+        - {x: -5, y: -4}
+        - {x: 4, y: -4}
+        - {x: 7, y: -1}
+        - {x: 7, y: 10}
+        - {x: 5, y: 11}
+    - name: paterajakbiega_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1472
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 11}
+        - {x: -7, y: 10}
+        - {x: -7, y: -5}
+        - {x: -5, y: -6}
+        - {x: 2, y: -6}
+        - {x: 7, y: -4}
+        - {x: 7, y: 11}
+    - name: paterajakbiega_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1408
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -3, y: 12}
+        - {x: -7, y: 8}
+        - {x: -7, y: -5}
+        - {x: -5, y: -6}
+        - {x: 3, y: -6}
+        - {x: 6, y: -3}
+        - {x: 7, y: 0}
+        - {x: 7, y: 10}
+    - name: paterajakbiega_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -3, y: 12}
+        - {x: -7, y: 8}
+        - {x: -7, y: -5}
+        - {x: -5, y: -6}
+        - {x: 4, y: -6}
+        - {x: 7, y: -4}
+        - {x: 7, y: 11}
+    - name: paterajakbiega_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 12}
+        - {x: -7, y: 9}
+        - {x: -7, y: -7}
+        - {x: 3, y: -7}
+        - {x: 7, y: -4}
+        - {x: 7, y: 12}
+    - name: paterajakbiega_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1216
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -7, y: 9}
+        - {x: -7, y: -8}
+        - {x: 1, y: -8}
+        - {x: 4, y: -7}
+        - {x: 7, y: -1}
+        - {x: 7, y: 13}
+    - name: paterajakbiega_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 13}
+        - {x: -7, y: 9}
+        - {x: -7, y: -8}
+        - {x: 1, y: -8}
+        - {x: 4, y: -7}
+        - {x: 7, y: -1}
+        - {x: 7, y: 13}
+    - name: paterajakbiega_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1088
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 14}
+        - {x: -7, y: 9}
+        - {x: -7, y: -8}
+        - {x: -5, y: -9}
+        - {x: 3, y: -9}
+        - {x: 7, y: -4}
+        - {x: 7, y: 13}
+        - {x: 5, y: 14}
+    - name: paterajakbiega_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -7, y: 11}
+        - {x: -7, y: -10}
+        - {x: 2, y: -10}
+        - {x: 7, y: -4}
+        - {x: 7, y: 13}
+        - {x: 5, y: 14}
+    - name: paterajakbiega_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -7, y: 11}
+        - {x: -7, y: -10}
+        - {x: 2, y: -10}
+        - {x: 7, y: -4}
+        - {x: 7, y: 13}
+        - {x: 5, y: 14}
+    - name: paterajakbiega_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -9}
+        - {x: -5, y: -10}
+        - {x: 4, y: -10}
+        - {x: 7, y: -7}
+        - {x: 7, y: 14}
+    - name: paterajakbiega_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 832
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 14}
+        - {x: -7, y: 10}
+        - {x: -7, y: -11}
+        - {x: 2, y: -11}
+        - {x: 7, y: -5}
+        - {x: 7, y: 13}
+        - {x: 5, y: 14}
+    - name: paterajakbiega_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2, y: 14}
+        - {x: -7, y: 8}
+        - {x: -7, y: -9}
+        - {x: -5, y: -10}
+        - {x: 4, y: -10}
+        - {x: 7, y: -7}
+        - {x: 7, y: 14}
+    - name: paterajakbiega_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 704
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 13}
+        - {x: -7, y: 8}
+        - {x: -7, y: -9}
+        - {x: -5, y: -10}
+        - {x: 3, y: -10}
+        - {x: 7, y: -5}
+        - {x: 7, y: 12}
+        - {x: 5, y: 13}
+    - name: paterajakbiega_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -3, y: 12}
+        - {x: -7, y: 8}
+        - {x: -7, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -8}
+        - {x: 7, y: -2}
+        - {x: 7, y: 11}
+    - name: paterajakbiega_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 12}
+        - {x: -3, y: 12}
+        - {x: -7, y: 8}
+        - {x: -7, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -8}
+        - {x: 7, y: -2}
+        - {x: 7, y: 11}
+    - name: paterajakbiega_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 11}
+        - {x: -4, y: 11}
+        - {x: -7, y: 8}
+        - {x: -7, y: -9}
+        - {x: 1, y: -9}
+        - {x: 4, y: -8}
+        - {x: 7, y: -2}
+        - {x: 7, y: 10}
+    - name: paterajakbiega_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 10}
+        - {x: -3, y: 10}
+        - {x: -7, y: 6}
+        - {x: -7, y: -7}
+        - {x: -5, y: -8}
+        - {x: 3, y: -8}
+        - {x: 6, y: -5}
+        - {x: 7, y: -2}
+        - {x: 7, y: 8}
+    - name: paterajakbiega_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 10}
+        - {x: -3, y: 10}
+        - {x: -7, y: 6}
+        - {x: -7, y: -7}
+        - {x: -5, y: -8}
+        - {x: 4, y: -8}
+        - {x: 7, y: -6}
+        - {x: 7, y: 9}
+    - name: paterajakbiega_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3, y: 9}
+        - {x: -7, y: 6}
+        - {x: -7, y: -6}
+        - {x: -6, y: -7}
+        - {x: 4, y: -7}
+        - {x: 7, y: -5}
+        - {x: 7, y: 9}
+    - name: paterajakbiega_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 8}
+    - name: paterajakbiega_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 8}
+        - {x: -7, y: 6}
+        - {x: -7, y: -7}
+        - {x: 7, y: -7}
+        - {x: 7, y: 8}
+    - name: paterajakbiega_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -6}
+        - {x: 6, y: -6}
+        - {x: 7, y: -5}
+        - {x: 7, y: 7}
+    - name: paterajakbiega_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 6}
+        - {x: -7, y: -6}
+        - {x: 7, y: -6}
+        - {x: 7, y: 6}
+    - name: paterajakbiega_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 6}
+        - {x: -7, y: 4}
+        - {x: -7, y: -3}
+        - {x: -5, y: -5}
+        - {x: 5, y: -5}
+        - {x: 7, y: -3}
+        - {x: 7, y: 4}
+        - {x: 5, y: 6}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

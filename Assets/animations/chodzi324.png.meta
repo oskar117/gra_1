@@ -1,0 +1,993 @@
+fileFormatVersion: 2
+guid: 634fa2e6ac1523c489dca8fc1313a95e
+timeCreated: 1463754602
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: chodzi324_0
+    21300002: chodzi324_1
+    21300004: chodzi324_2
+    21300006: chodzi324_3
+    21300008: chodzi324_4
+    21300010: chodzi324_5
+    21300012: chodzi324_6
+    21300014: chodzi324_7
+    21300016: chodzi324_8
+    21300018: chodzi324_9
+    21300020: chodzi324_10
+    21300022: chodzi324_11
+    21300024: chodzi324_12
+    21300026: chodzi324_13
+    21300028: chodzi324_14
+    21300030: chodzi324_15
+    21300032: chodzi324_16
+    21300034: chodzi324_17
+    21300036: chodzi324_18
+    21300038: chodzi324_19
+    21300040: chodzi324_20
+    21300042: chodzi324_21
+    21300044: chodzi324_22
+    21300046: chodzi324_23
+    21300048: chodzi324_24
+    21300050: chodzi324_25
+    21300052: chodzi324_26
+    21300054: chodzi324_27
+    21300056: chodzi324_28
+    21300058: chodzi324_29
+    21300060: chodzi324_30
+    21300062: chodzi324_31
+    21300064: chodzi324_32
+    21300066: chodzi324_33
+    21300068: chodzi324_34
+    21300070: chodzi324_35
+    21300072: chodzi324_36
+    21300074: chodzi324_37
+    21300076: chodzi324_38
+    21300078: chodzi324_39
+    21300080: chodzi324_40
+    21300082: chodzi324_41
+    21300084: chodzi324_42
+    21300086: chodzi324_43
+    21300088: chodzi324_44
+    21300090: chodzi324_45
+    21300092: chodzi324_46
+    21300094: chodzi324_47
+    21300096: chodzi324_48
+    21300098: chodzi324_49
+    21300100: chodzi324_50
+    21300102: chodzi324_51
+    21300104: chodzi324_52
+    21300106: chodzi324_53
+    21300108: chodzi324_54
+    21300110: chodzi324_55
+    21300112: chodzi324_56
+    21300114: chodzi324_57
+    21300116: chodzi324_58
+    21300118: chodzi324_59
+    21300120: chodzi324_60
+    21300122: chodzi324_61
+    21300124: chodzi324_62
+    21300126: chodzi324_63
+    21300128: chodzi324_64
+    21300130: chodzi324_65
+    21300132: chodzi324_66
+    21300134: chodzi324_67
+    21300136: chodzi324_68
+    21300138: chodzi324_69
+    21300140: chodzi324_70
+    21300142: chodzi324_71
+    21300144: chodzi324_72
+    21300146: chodzi324_73
+    21300148: chodzi324_74
+    21300150: chodzi324_75
+    21300152: chodzi324_76
+    21300154: chodzi324_77
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: chodzi324_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3311
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3268
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3225
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3182
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3139
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3096
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3053
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3010
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2967
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2924
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2881
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2838
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2795
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2752
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2709
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2666
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2623
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2580
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2537
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2494
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2451
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2408
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2365
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2322
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2279
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2236
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2193
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2150
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2107
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2064
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2021
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1978
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1935
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1892
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1849
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1806
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1763
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1677
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1634
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1591
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1548
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1505
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1462
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1419
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1376
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1333
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1290
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1247
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1204
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1161
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1118
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1075
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 946
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 903
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 860
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 774
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 731
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 688
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 645
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 602
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 559
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 516
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 473
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 430
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 301
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 43
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: chodzi324_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
